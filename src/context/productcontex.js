@@ -47,4 +47,3 @@ const useProductContext = () => {
 
 export { AppProvider, AppContext, useProductContext };
 
-
